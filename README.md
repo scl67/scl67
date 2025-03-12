@@ -11,4 +11,4 @@
 - 🍓 Puppet & Ansible are my jam
 
 ## Contact
-📫 Hit me up on LinkedIn
+📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/scott-cheadle)
